@@ -1,0 +1,50 @@
+﻿@page
+@model School.Pages.Exam.StudentExamModel
+@{
+}
+@{
+    if(Model.Exams.Count() > 0)
+    {
+        <h2>@Model.Exams.First().FirstName @Model.Exams.First().LastName</h2>
+        <table cellpadding="5">
+            <tr>
+                <th>
+                    Exam Id
+                </th>
+                <th>
+                    Score
+                </th>
+                <th>
+                    Edit
+                </th>
+                <th>
+                    Delete
+                </th>
+            </tr>
+            @foreach(School.DAL.Exam exam in Model.Exams)
+            {
+                <tr>
+                    <td>
+                        @exam.ExamId
+                    </td>
+                    <td>
+                        @exam.Score.ToString()
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@exam.ExamId">Edit</a>
+                    </td>
+                    <td>
+                        <a asp-page="./Delete" asp-route-id="@exam.ExamId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+    else 
+    {
+        <h2>No Exams</h2>
+        <div>
+            <a asp-page="./Edit" asp-route-id="@Model.StudentId">Add a New Exam Score</a>
+        </div>
+    }
+}

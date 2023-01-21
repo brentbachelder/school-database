@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "QA+otdSd+t9KJd0lIx13sXNoGXf+FUCPiIqBRLpJpDapxMuXgMNnynpQfZKipa5iavmz/NO1FG0T1tTbCF9maQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brent Bachelder\\Desktop\\Homework\\C#\\School\\School\\School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\microsoft.data.sqlite\\7.0.0\\microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.11\\microsoft.netcore.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Brent Bachelder\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

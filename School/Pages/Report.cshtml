@@ -1,0 +1,82 @@
+﻿@page
+@model School.Pages.ReportModel
+@{
+}
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js">
+</script>
+ 
+<h2>Exams By Grade</h2>
+
+<table cellpadding="5">
+    <tr>
+        <th>
+            Grade
+        </th>
+        <th>
+            Count
+        </th>
+    </tr>
+    @foreach(var row in Model.ReportRows)
+    {
+        <tr>
+            <td>A</td>
+            <td>@row.AGrade.ToString()</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>@row.BGrade.ToString()</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>@row.CGrade.ToString()</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>@row.DGrade.ToString()</td>
+        </tr>
+        <tr>
+            <td>F</td>
+            <td>@row.FGrade.ToString()</td>
+        </tr>
+    }
+</table>
+<h2>Exams By Grade (Pie Chart)</h2>
+    <div style="max-height:300px;">
+        <canvas id="myChart">
+ 
+        </canvas>
+    </div>
+<script> 
+    var countObject = { A: @Model.AllCounts[0], B: @Model.AllCounts[1], C: @Model.AllCounts[2], D: @Model.AllCounts[3], F: @Model.AllCounts[4] };
+
+    const chartData = {
+        labels: Object.keys(countObject),
+        datasets: [{
+            label: 'Sales By Country',
+            data: Object.values(countObject),
+            backgroundColor: [
+                'red',
+                'orange',
+                'yellow',
+                'green',
+                'blue',
+                'indigo',
+                'violet'
+            ],
+            hoverOffset: 4
+        }]
+    };
+
+    const config = {
+        type: 'pie',
+        data: chartData,
+        options: {
+            responsive: true,
+            maintainAspectRatio: false
+        }
+    }
+    new Chart("myChart", config);
+
+</script>
+

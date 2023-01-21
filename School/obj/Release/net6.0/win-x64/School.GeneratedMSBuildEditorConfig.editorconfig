@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = School
+build_property.RootNamespace = School
+build_property.ProjectDir = C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Exam/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Exam/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Exam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Exam/StudentExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbVxTdHVkZW50RXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Teacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Teacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brent Bachelder/Desktop/Homework/C\#/School/School/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s5fc6wa62x

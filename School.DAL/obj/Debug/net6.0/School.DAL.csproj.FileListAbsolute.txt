@@ -1,0 +1,48 @@
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\bin\Debug\net6.0\School.DAL.deps.json
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\bin\Debug\net6.0\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\bin\Debug\net6.0\School.DAL.pdb
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\School.DAL.pdb
+C:\Users\Boo\source\repos\Final\Final\Chinook.DAL\obj\Debug\net6.0\ref\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\School.DAL\bin\Debug\net6.0\School.DAL.deps.json
+C:\Users\Boo\source\repos\Final\Final\School.DAL\bin\Debug\net6.0\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\School.DAL\bin\Debug\net6.0\School.DAL.pdb
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\School.DAL.pdb
+C:\Users\Boo\source\repos\Final\Final\School.DAL\obj\Debug\net6.0\ref\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.deps.json
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.pdb
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.pdb
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\ref\School.DAL.dll
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.deps.json
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.dll
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\bin\Debug\net6.0\School.DAL.pdb
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.dll
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\refint\School.DAL.dll
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\School.DAL.pdb
+C:\Users\Brent\Desktop\Homework\C#\School\School.DAL\obj\Debug\net6.0\ref\School.DAL.dll

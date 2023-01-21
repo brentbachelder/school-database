@@ -1,0 +1,30 @@
+﻿@page
+@model School.Pages.Exam.EditModel
+@{
+}
+
+@if(Model.IsSuccess)
+{
+    <p>
+        You Created: @Model.Score.ToString() for Student #@Model.StudentId
+    </p>
+}
+else
+{
+    <form method="post">
+        <div asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label asp-for="StudentId"></label><br />
+            <select asp-for="StudentId" class="form-select" asp-items="Model.StudentOptions">
+            </select><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="Score"></label><br />
+            <input asp-for="Score" class="form-control" type="number" step="0.01" /><br />
+        </div>
+        <input asp-for="ExamId" type="hidden" />
+        <div class="form-group">
+            <button class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+}

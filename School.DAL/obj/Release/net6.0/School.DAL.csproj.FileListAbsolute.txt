@@ -1,0 +1,12 @@
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Release\net6.0\School.DAL.deps.json
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Release\net6.0\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\bin\Release\net6.0\School.DAL.pdb
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\refint\School.DAL.dll
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\School.DAL.pdb
+C:\Users\Brent Bachelder\Desktop\Homework\C#\School\School.DAL\obj\Release\net6.0\ref\School.DAL.dll
